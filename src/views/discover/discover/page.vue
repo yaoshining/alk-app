@@ -190,6 +190,16 @@
                     </dd>
                 </dl>
             </div>
+            <div class="dl-group">
+                <dl>
+                    <dt>
+                        <h3>市场活动</h3>
+                    </dt>
+                    <dd>
+                        
+                    </dd>
+                </dl>
+            </div>
         </div>
     </div>
 </template>
